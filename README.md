@@ -28,5 +28,5 @@ The **Personal Fitness Tracker** is a **machine learning-based web application**
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/Personal-Fitness-Tracker.git
-cd Personal-Fitness-Tracker
+git clone https://github.com/avijit-28/fitness-tracker.git
+cd fitness-tracker
