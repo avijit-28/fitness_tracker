@@ -4,6 +4,11 @@
 The **Personal Fitness Tracker** is a **machine learning-based web application** that predicts **calories burned** based on user inputs. This project utilizes a **Support Vector Machine (SVM) model** to analyze key fitness parameters and provides **real-time, personalized insights** to help users track their health effectively.  
 
 ---
+## 🎥 Demo  
+📺 Watch the **project demo on YouTube**:  
+[![Personal Fitness Tracker Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/U9Bp8s7MX24)  
+
+---
 
 ## 🔹 Features  
 ✅ **Accurate Calorie Prediction** – Uses an **SVM model** trained on real fitness data.  
